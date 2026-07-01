@@ -90,11 +90,11 @@ A Streamlit web application was developed to allow users to enter customer infor
 
 Main evaluation metrics:
 
-* Accuracy: XX%
-* Precision: XX%
-* Recall: XX%
-* F1 Score: XX%
-* ROC-AUC: XX%
+* Accuracy
+* Precision
+* Recall
+* F1 Score
+* ROC-AUC
 
 ## Streamlit Application
 
@@ -104,10 +104,5 @@ The project includes an interactive Streamlit application that allows users to:
 * Generate predictions instantly
 * Visualize whether the customer is likely to subscribe to a term deposit
 
-## Future Improvements
 
-* Hyperparameter optimization
-* Advanced feature engineering
-* Explainable AI techniques (SHAP)
-* Model monitoring and retraining pipeline
 
